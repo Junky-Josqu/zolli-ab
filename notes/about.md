@@ -1,0 +1,13 @@
+# Was ist wichtig?
+- Uebersichtlich und strukturiert.
+- Platzt ausnutzten kein platzt verschwenden.
+- das Arbeitsblattr muss eine Din4 Papier passen(Doppelseitig erlaubt)
+- Aufgabenstellung muss draufstehene und versteandlich sein. 
+- Rundum Rand (etwa 1.5 centmiter)
+- Selbstkontrolle ueeber die Richtikeit von Antworten(Handout oder Loesung auf blatt)
+- Schummeln verhindern
+- Spass haben.
+- Bilder fuer verschoenerung oder fuer die Aufgabenstellung.
+- Nicht zu schwer nicht zu leicht.
+- Neue Sachverhalte sollen erkleart werden.
+- Aufaben nicht nur auf das Arbeitslblatt beschreanen. (Zb. Antowrten ins heft schreiben lassen. oder Bilder malenlassen)
