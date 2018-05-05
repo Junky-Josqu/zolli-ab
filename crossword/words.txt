@@ -1,0 +1,8 @@
+GLUTEN : Ein Stoffgemisch aus 2 Proteingemischen auf das der Erkrankte negative reagiert.
+GLIADIN : Ein Proteingemisch.
+GLUTENIN : Ein anderes Proteingemisch.
+TG2 : Enzym das Proteingemische spaltet
+GETREIDE : Erkrankte reagieren auf bestimmtes...
+Lymphozyten : Teil vom Immunsystem, verursacht Entzündungen.
+DARMZOTTEN : Beim Erkrankten schrumpfen jene.
+
