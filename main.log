@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.5.1)  5 MAY 2018 21:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.5.1)  5 MAY 2018 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**tex/main.tex
+(./tex/main.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/exam/exam.cls
@@ -146,91 +146,34 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen107
 \Gin@req@width=\dimen108
 )
-(/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/02/14 3.18 The Babel package
-
-(/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/02/14 3.18 Babel switching mechanism
-)
-(/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
-Language: ngerman 2016/11/02 v2.9 German support for babel (new orthography)
-
-(/usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
-
-(/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/02/14 3.18 Babel common definitions
-\babel@savecnt=\count130
-\U@D=\dimen109
-
-(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count131
-)
-Package babel Info: Making " an active character on input line 125.
-)))
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count132
-\Gm@cntv=\count133
-\c@Gm@tempcnt=\count134
-\Gm@bindingoffset=\dimen110
-\Gm@wd@mp=\dimen111
-\Gm@odd@mp=\dimen112
-\Gm@even@mp=\dimen113
-\Gm@layoutwidth=\dimen114
-\Gm@layoutheight=\dimen115
-\Gm@layouthoffset=\dimen116
-\Gm@layoutvoffset=\dimen117
-\Gm@dimlist=\toks21
-) (./main.aux
-
-LaTeX Warning: Label `question@1' multiply defined.
-
-
-LaTeX Warning: Label `question@1' multiply defined.
-
-
-LaTeX Warning: Label `question@1' multiply defined.
-
-)
+No file main.aux.
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count135
-\scratchdimen=\dimen118
+\scratchcounter=\count130
+\scratchdimen=\dimen109
 \scratchbox=\box27
-\nofMPsegments=\count136
-\nofMParguments=\count137
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count138
-\MPscratchDim=\dimen119
-\MPnumerator=\count139
-\makeMPintoPDFobject=\count140
-\everyMPtoPDFconversion=\toks23
+\nofMPsegments=\count131
+\nofMParguments=\count132
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count133
+\MPscratchDim=\dimen110
+\MPnumerator=\count134
+\makeMPintoPDFobject=\count135
+\everyMPtoPDFconversion=\toks22
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -267,6 +210,10 @@ Package etexcmds Info: Could not find \expanded.
 (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -283,45 +230,12 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
-* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=512.14963pt
-* \textheight=759.6886pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
-* \topmargin=-59.59087pt
-* \headheight=15.0pt
-* \headsep=15.0pt
-* \topskip=11.0pt
-* \footskip=29.0pt
-* \marginparwidth=36.135pt
-* \marginparsep=5.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+LaTeX Font Info:    Try loading font information for U+msa on input line 11.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 13.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+LaTeX Font Info:    Try loading font information for U+msb on input line 11.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -344,44 +258,60 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no ” in font cmr10!
 Missing character: There is no Š in font cmr10!
 
-Underfull \hbox (badness 1831) in paragraph at lines 75--76
-[]\OT1/cmr/m/n/10.95 Schokomilch, Pin-guin-fett, Sei-
- []
+
+LaTeX Warning: File `img/kekse.jpg' not found on input line 57.
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 80--81
-[]\OT1/cmr/m/n/10.95 Walfett, Schwei-ne-zeh, Wei-zen-
- []
+! Package pdftex.def Error: File `img/kekse.jpg' not found: using draft setting
+.
 
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ...0.7\textwidth, height=40px]{img/kekse.jpg}
+                                                  
+? 
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.57 ...0.7\textwidth, height=40px]{img/kekse.jpg}
+                                                  
+? 
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no ¼ in font cmr9!
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 This exam contains 4 questions with 0 parts, 0 subparts, and 0 subsubparts.
+
+Class exam Warning: Point totals have changed. Rerun to get point totals right.
+
+
 (./main.aux)
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 3949 strings out of 492982
- 54452 string characters out of 6138580
- 149568 words of memory out of 5000000
- 7461 multiletter control sequences out of 15000+600000
- 10105 words of font info for 38 fonts, out of 8000000 for 9000
+ 2924 strings out of 492982
+ 40175 string characters out of 6138580
+ 117951 words of memory out of 5000000
+ 6466 multiletter control sequences out of 15000+600000
+ 10273 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,28p,271b,180s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,9n,28p,275b,253s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8
 .pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (1 page, 79273 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (2 pages, 88388 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
