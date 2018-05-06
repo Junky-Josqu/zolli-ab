@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.5.1)  6 MAY 2018 20:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.5.1)  6 MAY 2018 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -330,13 +330,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 13.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¼ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¼ in font cmr10!
-Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¼ in font cmr10!
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -350,43 +344,32 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no ” in font cmr10!
 Missing character: There is no Š in font cmr10!
 
-Underfull \hbox (badness 1831) in paragraph at lines 143--144
+Underfull \hbox (badness 1831) in paragraph at lines 139--140
 []\OT1/cmr/m/n/10.95 Schokomilch, Pin-guin-fett, Sei-
  []
 
-
-Underfull \hbox (badness 1152) in paragraph at lines 148--149
-[]\OT1/cmr/m/n/10.95 Walfett, Schwei-ne-zeh, Wei-zen-
- []
-
-Missing character: There is no Ã in font cmr9!
-Missing character: There is no ¼ in font cmr9!
 [2]
-This exam contains 12 questions with 0 parts, 0 subparts, and 0 subsubparts.
-
-Class exam Warning: Point totals have changed. Rerun to get point totals right.
-
-
+This exam contains 14 questions with 0 parts, 0 subparts, and 0 subsubparts.
 (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4013 strings out of 492982
- 55507 string characters out of 6138580
- 146737 words of memory out of 5000000
- 7525 multiletter control sequences out of 15000+600000
- 10105 words of font info for 38 fonts, out of 8000000 for 9000
+ 4018 strings out of 492982
+ 55576 string characters out of 6138580
+ 146813 words of memory out of 5000000
+ 7529 multiletter control sequences out of 15000+600000
+ 10399 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,28p,271b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,9n,28p,271b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8
-.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (2 pages, 83225 bytes).
+.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (2 pages, 85081 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
